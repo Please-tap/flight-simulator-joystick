@@ -1,0 +1,4 @@
+This is the instruction on how to make a joystick:
+You must have an Arduino Leonardo.
+If you have 1 joystick, then you need to connect it to ports A0 and A1, and the button to port A5.
+If you want to add new joysticks, then add new variables and read them, as in lines 47-54.
