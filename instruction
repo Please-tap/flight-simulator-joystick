@@ -1,4 +1,6 @@
 This is the instruction on how to make a joystick:
+The first 2 files are the joystick model, it can be printed on a printer.
+The model provides a place for attaching a stick, so we put it on the stick and secure it with rubber bands.
 You must have an Arduino Leonardo.
 If you have 1 joystick, then you need to connect it to ports A0 and A1, and the button to port A5.
 If you want to add new joysticks, then add new variables and read them, as in lines 47-54.
